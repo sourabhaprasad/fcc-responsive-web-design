@@ -18,7 +18,7 @@ Check out the live preview [here](https://souri-droid.github.io/technical-docume
 </div>
 
 ## Video
-Check out the demo video [here](https://github.com/souri-droid/technical-documentation/assets/70069572/5335ef21-bed8-43b3-8028-2a6e9f815e0a).
+Check out the demo video at [CodePen](https://codepen.io/souri-droid/full/vYbboGx).
 
 
 ## Acknowledgments
