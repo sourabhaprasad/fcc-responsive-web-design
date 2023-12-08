@@ -1,6 +1,6 @@
 # Responsive Web Design Projects 
 
-All the projects were created as part of my journey in mastering the principles of responsive web design and implementing hands-on skills in HTML and CSS.
+All the projects were created as part of my journey in learning the principles of responsive web design and implementing hands-on skills in HTML and CSS.
 
 
 # Projects 
