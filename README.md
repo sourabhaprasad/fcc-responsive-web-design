@@ -1,6 +1,6 @@
 # Responsive Web Design Projects 
 
-This repository captures my personal solutions to the responsive web design curriculum by freeCodeCamp.
+This repository captures the solo projects created using simple HTML and CSS. 
 
 
 # Projects 
@@ -12,3 +12,7 @@ The projects presented here are designed for the freeCodeCamp Responsive Web Des
 * Technical Documentation Page: [Page](https://codepen.io/souri-droid/full/vYbboGx) |
 * Product Landing Page: [Page]
 * Personal Portfolio Page: [Page]
+
+
+## Acknowledgements
+This repository documents my individual solutions to [freeCodeCamp's](https://www.freecodecamp.org/) responsive web design curriculum. All the projects were created as part of my journey in mastering the principles of responsive web design and implementing hands-on skills in HTML and CSS.
