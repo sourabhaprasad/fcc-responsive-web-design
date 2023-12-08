@@ -15,7 +15,7 @@ styles.css: The stylesheet file that defines the visual appearance of the form.
 </div>
 
 # Preview
-Check out the live preview [here at CodePen](https://codepen.io/souri-droid/full/BaMMXam).
+Check out the live preview at [CodePen](https://codepen.io/souri-droid/full/BaMMXam).
 
 
 ## Acknowledgments
