@@ -7,11 +7,11 @@ All the projects were created as part of my journey in learning the principles o
 
 The projects presented here are designed for the freeCodeCamp Responsive Web Design Certification. The primary goal was to create five responsive webpages using HTML and basic CSS, adhering to the specified user stories outlined by freeCodeCamp. Detailed information about each project can be explored through the provided links below.
 
-* Survey Form: [Page](https://codepen.io/souri-droid/full/BaMMXam) |
-* Tribute Page: [Page](https://codepen.io/souri-droid/full/gOqqVPx) |
-* Technical Documentation Page: [Page](https://codepen.io/souri-droid/full/vYbboGx) |
-* Product Landing Page: [Page](https://souri-droid.github.io/product-landing-page/)
-* Personal Portfolio Page: [Page]
+* Survey Form: [Link](https://codepen.io/souri-droid/full/BaMMXam) |
+* Tribute Page: [Link](https://codepen.io/souri-droid/full/gOqqVPx) |
+* Technical Documentation Page: [Link](https://codepen.io/souri-droid/full/vYbboGx) |
+* Product Landing Page: [Link](https://souri-droid.github.io/product-landing-page/)
+* Personal Portfolio Page: [Link]
 
 
 ## Acknowledgements
