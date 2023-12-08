@@ -1,6 +1,6 @@
 # Responsive Web Design Projects 
 
-This repository captures the solo projects created using simple HTML and CSS. 
+All the projects were created as part of my journey in mastering the principles of responsive web design and implementing hands-on skills in HTML and CSS.
 
 
 # Projects 
@@ -15,4 +15,4 @@ The projects presented here are designed for the freeCodeCamp Responsive Web Des
 
 
 ## Acknowledgements
-This repository documents my individual solutions to [freeCodeCamp's](https://www.freecodecamp.org/) responsive web design curriculum. All the projects were created as part of my journey in mastering the principles of responsive web design and implementing hands-on skills in HTML and CSS.
+This repository documents my individual solutions to [freeCodeCamp's](https://www.freecodecamp.org/) responsive web design curriculum. 
