@@ -10,8 +10,8 @@ The projects presented here are designed for the freeCodeCamp Responsive Web Des
 * Survey Form: [Link](https://codepen.io/souri-droid/full/BaMMXam) 
 * Tribute Page: [Link](https://codepen.io/souri-droid/full/gOqqVPx) 
 * Technical Documentation Page: [Link](https://codepen.io/souri-droid/full/vYbboGx) 
-* Product Landing Page: [Link](https://souri-droid.github.io/product-landing-page/)
-* Personal Portfolio Page: [Link](https://souri-droid.github.io/fcc-portfolio/)
+* Product Landing Page: [Link](https://sourabhaprasad.github.io/product-landing-page/)
+* Personal Portfolio Page: [Link](https://sourabhaprasad.github.io/fcc-portfolio/)
 
 
 ## Acknowledgements
