@@ -1,0 +1,202 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    font-size: 15px;
+    top: 0;
+}
+
+.nav-link {
+    padding: 10px 15px;
+}
+
+.nav-link:hover {
+    text-shadow: 2px 4px 10px #858b91;
+    color: white;
+}
+
+
+#welcome-section {
+    display: flex;
+    margin: 10%;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+.name {
+    font-size: 80px;
+    margin: 5px 0;
+    transition: 6s ease-in-out;
+}
+
+.name:hover {
+    text-shadow: #858b91 0 0 0.6em;
+    animation: breathe 6s linear infinite forwards;
+    cursor: none;
+}
+
+/* transition for name */
+@keyframes breathe {
+    0% {
+        transform: scale(1.0);
+    }
+
+    25% {
+        transform: scale(1.02);
+    }
+
+    50% {
+        transform: scale(1.01);
+    }
+
+    75% {
+        transform: scale(1.0);
+    }
+}
+
+.sub2 {
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.sub3 {
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.7);
+    padding-top: 120px;
+    padding-left: 150px;
+}
+
+.profilepic {
+    width: 40%;
+    height: auto;
+    object-fit: cover;
+    margin: 10px;
+}
+
+#about {
+    margin: 10px 80px 80px 80px;
+    font-size: large;
+    line-height: 30px;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#interests {
+    border: 1px solid #858b91;
+    width: 60%;
+    color: #fff;
+    padding: 3rem;
+    border-radius: 5px;
+    margin: 10px;
+    padding-right: 0;
+}
+
+#interests>h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+#interests>ul {
+    list-style: none;
+    padding: 0;
+    /* Remove default padding on ul */
+}
+
+#about a {
+    text-decoration: underline;
+}
+
+.projects-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 10px auto;
+    gap: 40px; /* Adjust the gap between columns */
+    max-width: 800px; /* Set a maximum width for the container */
+    margin: 0 auto; /* Center the container */
+    padding: 20px;
+    padding-bottom: 150px;
+}
+
+.project-tile {
+    text-align: center;
+}
+
+.project-tile img {
+    border-radius: 10px;
+}
+
+#contact {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid white;
+    align-items: center;
+}
+
+#contact a {
+    padding: 40px 40px;
+}
+
+.icon {
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    #welcome-section {
+        display: block;
+        margin: 10%;
+    }
+
+    .name {
+        font-size: 60px;
+    }
+
+    .sub3 {
+        padding-top: 60px;
+        padding-left: 0;
+    }
+
+    .profilepic {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    #about {
+        margin: 10px;
+    }
+
+    #interests {
+        width: 100%;
+        margin: 10px;
+    }
+
+    .projects-container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    #contact {
+        flex-direction: column;
+    }
+
+    #contact a {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+}
