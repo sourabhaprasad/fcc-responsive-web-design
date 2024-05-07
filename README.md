@@ -16,3 +16,7 @@ The projects presented here are designed for the freeCodeCamp Responsive Web Des
 
 ## Acknowledgements
 This repository documents my individual solutions to [freeCodeCamp's](https://www.freecodecamp.org/) responsive web design curriculum. 
+
+
+### Certificate
+View the certificate [here](https://www.freecodecamp.org/certification/sourabhakh/responsive-web-design).
